@@ -1,7 +1,7 @@
 
-# Kaiser Provider CLI
+# Kaisar Provider CLI
 
-Kaiser Provider CLI Linux Installation Tutorial
+Kaisar Provider CLI Linux Installation Tutorial
 
 ```
 curl -O https://raw.githubusercontent.com/Kaisar-Network/kaisar-releases/main/kaisar-provider-setup.sh
